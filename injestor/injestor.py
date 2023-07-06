@@ -2,5 +2,5 @@ class Injestor:
 
     #consturctor
     def __init__(self):
-    #Need to build
-        return
+        self.yahoo_user
+        self.yahoo_pw

@@ -521,4 +521,4 @@ rauth = "*"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "51951854b008d98779900aac458acd8244251f3d8d96f517eb740545a0eecae4"
+content-hash = "8063a17b78b4bbec35e3250394c00c62e063b36fdcdb1be464692dbe7ff0734d"
