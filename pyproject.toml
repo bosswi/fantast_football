@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "fantast-football"
+version = "0.1.0"
+description = ""
+authors = ["Wynn Boss <wynn.boss@bjss.com>"]
+readme = "README.md"
+packages = [{include = "fantast_football"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.0.3"
+yahoo-fantasy-api = "^2.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
